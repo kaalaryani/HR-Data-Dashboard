@@ -5,4 +5,4 @@ It shows employee distribution by department and promotion statistics.
 
 **Tools used:** Excel (Pivot Tables, Charts, Data Cleaning)
 
-![Dashboard Preview](HR_Analytics_Dashboard.png)
+![Dashboard Preview](HR_Analytics_Dashboard1.png)
